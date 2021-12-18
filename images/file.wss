@@ -1,0 +1,137 @@
+<site sitename="file" version="3.0" FullPath="C:\Java\Tomcat 7.0\webapps\dbmsproj\images\file.wss"><css/><components/><page id="p103632687" pageindex="0" name="index"><body><Component type="2" id="text1" zorder="0" filename="text103732968" left="571" top="162" width="466" height="40" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Algerian" style="font-size:32px;"&gt;new faculty registeration&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Algerian" class="ws24"&gt;new faculty registeration&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr/AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBghBbGdlcmlhbgRTaXplAhgAAC05IDIgMCAwIDIgMCAyDQpydnMNCmwAAAAO
+AQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAAtOSAyIDAg
+MCAyIDAgNA0KcnZzDQoCAAAADgA3IDEgMSAwIDAgMA0KbmV3IGZhY3VsdHkgcmVnaXN0ZXJhdGlv
+bg0K
+</rvf></Component><Component type="14" id="form1" zorder="2" filename="form103782703" formtype="1" formname="form1" width="618" height="402" left="514" top="300"/><Component type="3" id="image1" zorder="1" filename="image104025843" left="0" top="0" width="1346" height="640" originwidth="976" originheight="731" src="C:\Java\Tomcat 7.0\webapps\dbmsproj\images\index~~element2.jpg" previewfile="C:\Java\Tomcat 7.0\webapps\dbmsproj\images\index~~element2.jpg" thumbname="thumb105557093" resamplename="img105557125" exportfilename="images/index~~element2.jpg" selected="1"/><Component type="2" id="text2" zorder="3" filename="text104108109" left="592" top="231" width="490" height="56" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Algerian" style="font-size:32px;"&gt;new faculty registeration&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Algerian" class="ws24"&gt;new faculty registeration&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr/AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBghBbGdlcmlhbgRTaXplAhgAAC05IDIgMCAwIDIgMCAyDQpydnMNCmwAAAAO
+AQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAAtOSAyIDAg
+MCAyIDAgNA0KcnZzDQoCAAAADgA3IDEgMSAwIDAgMA0KbmV3IGZhY3VsdHkgcmVnaXN0ZXJhdGlv
+bg0K
+</rvf></Component><Component type="2" id="text11" zorder="5" filename="text104526093" left="637" top="379" width="160" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Password&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Password&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoFAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBg5CZXJsaW4gU2FucyBGQgRTaXplAg4AAC05IDIgMCAwIDIgMCAyDQpydnMN
+CmwAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJU3R5
+bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAAt
+OSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgA3IDEgMSAwIDAgMA0KUGFzc3dvcmQNCg==
+</rvf></Component><Component type="2" id="text12" zorder="6" filename="text104541031" left="633" top="426" width="160" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Confirm Password&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Confirm Password&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoFAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBg5CZXJsaW4gU2FucyBGQgRTaXplAg4AAC05IDIgMCAwIDIgMCAyDQpydnMN
+CmwAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJU3R5
+bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAAt
+OSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgA3IDEgMSAwIDAgMA0KQ29uZmlybSBQYXNzd29yZA0K
+</rvf></Component><Component type="2" id="text13" zorder="7" filename="text104569859" left="631" top="473" width="160" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Security Question&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Security Question&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoFAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBg5CZXJsaW4gU2FucyBGQgRTaXplAg4AAC05IDIgMCAwIDIgMCAyDQpydnMN
+CmwAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJU3R5
+bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAAt
+OSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgA3IDEgMSAwIDAgMA0KU2VjdXJpdHkgUXVlc3Rpb24N
+Cg==
+</rvf></Component><Component type="2" id="text14" zorder="8" filename="text104634437" left="635" top="515" width="160" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Answer&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Answer&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoFAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBg5CZXJsaW4gU2FucyBGQgRTaXplAg4AAC05IDIgMCAwIDIgMCAyDQpydnMN
+CmwAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJU3R5
+bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAAt
+OSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgA3IDEgMSAwIDAgMA0KQW5zd2VyDQo=
+</rvf></Component><Component type="14" id="formtext6" zorder="10" filename="form104825109" formtype="3" formname="formtext6" parentform="form1" parentformname="form1" width="200" height="25" left="824" top="422"/><Component type="14" id="formtext7" zorder="11" filename="form104825593" formtype="3" formname="formtext7" parentform="form1" parentformname="form1" width="200" height="25" left="823" top="375"/><Component type="14" id="formtext8" zorder="12" filename="form104838390" formtype="3" formname="formtext8" parentform="form1" parentformname="form1" width="200" height="25" left="826" top="515"/><Component type="14" id="formselect4" zorder="13" filename="form105423125" formtype="9" formname="ques" parentform="form1" parentformname="form1" width="296" height="25" left="826" top="470" options=""/><Component type="14" id="formbutton1" zorder="14" filename="form105446234" formtype="2" formname="submit" parentform="form1" parentformname="form1" buttontype="1" width="119" height="25" left="825" top="577" formvalue="    Register    "/><Component type="14" id="formtext1" zorder="9" filename="form104699640" formtype="3" formname="formtext1" parentform="form1" parentformname="form1" width="200" height="25" left="822" top="327"/><Component type="2" id="text3" zorder="4" filename="text104160484" left="634" top="331" width="160" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;FacultyID&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;FacultyID&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoFAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBg5CZXJsaW4gU2FucyBGQgRTaXplAg4AAC05IDIgMCAwIDIgMCAyDQpydnMN
+CmwAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJU3R5
+bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAAt
+OSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgA3IDEgMSAwIDAgMA0KRmFjdWx0eUlEDQo=
+</rvf></Component></body></page></site>

@@ -1,0 +1,23 @@
+<site sitename="common2_2" version="3.0" FullPath="C:\Java\Tomcat 7.0\webapps\dbmsproj\images\common2_2.wss"><css/><components/><page id="p636951015" pageindex="0" name="index"><body generator="0" bgimage="C:\Java\Tomcat 7.0\webapps\dbmsproj\images\template_main_01.jpg" bgpreview="C:\Java\Tomcat 7.0\webapps\dbmsproj\images\template_main_01.jpg" bgsoundloop="-1" align="0" charset="0" charsetcode="ISO-8859-1" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" bgoutput="images/template_main_01.jpg"><Component type="3" id="image1" zorder="1" filename="image636968750" left="303" top="0" width="734" height="106" originwidth="734" originheight="106" src="C:\Java\Tomcat 7.0\webapps\dbmsproj\images\Banner1.png" previewfile="C:\Java\Tomcat 7.0\webapps\dbmsproj\images\Banner1.png" thumbname="thumb252671187" resamplename="img252671218" exportfilename="images/Banner1.png"/><Component type="9" id="hr1" zorder="2" filename="hr636978843" hrsize="2" width="1344" height="17" left="0" top="106"/><Component type="5" id="nav1" zorder="0" filename="nav637088031" fontname="Tahoma" fontsize="12" fontcolor="0" fontstyle="0" activecolor="536870911" navspace="10" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="180" navheight="28" normalimage="C:\Java\Tomcat 7.0\webapps\dbmsproj\images\Faculty\rectb04in.gif" mouseoverimage="C:\Java\Tomcat 7.0\webapps\dbmsproj\images\Faculty\rectb04over.gif" mouseoversound="" navcount="7" width="1330" height="28" preview="C:\Users\Vishal\AppData\Local\Temp\Web Page Maker\docO72VU\NavRP0NS" left="12" top="136" navtext0="Home" navstate0="0" navtext1="Get Details" navurl1="getdetails.jsp" navstate1="0" navtext2="Session Details" navstate2="0" navtext3="Overall Details" navstate3="0" navtext4="Update Profile" navstate4="0" navtext5="Change Password" navstate5="0" navtext6="Logout" navstate6="0" exportfilename="images/nav637088031" navurl0="facultyhome.jsp" navurl2="sessiondetails.jsp" navurl3="overalldetails.jsp" navurl4="facultyprofileupdate.jsp" navurl5="changefacultypwd.jsp" navurl6="logout.jsp"/><Component type="2" id="text1" zorder="3" filename="text817393812" left="461" top="290" width="535" height="122" html="" selected="1" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:32px;"&gt;Congratulations!!!!!&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:32px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:32px;"&gt;Faculty Details Updated Successfully&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws24"&gt;Congratulations!!!!!&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws24"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws24"&gt;Faculty Details Updated Successfully&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrrAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg5CZXJsaW4gU2FucyBGQgRTaXplAhgAAC05IDIgMCAwIDIgMCAyDQpy
+dnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0
+eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9T
+dHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0
+DQpydnMNCgIAAAAOADMgMyAxIDAgMCAwDQpDb25ncmF0dWxhdGlvbnMhISEhIQ0KDQpGYWN1bHR5
+IERldGFpbHMgVXBkYXRlZCBTdWNjZXNzZnVsbHkNCg==
+</rvf></Component></body></page></site>

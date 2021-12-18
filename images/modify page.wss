@@ -1,0 +1,254 @@
+<site sitename="modify page" templatepreview="" version="3.0" FullPath="C:\Java\Tomcat 7.0\webapps\dbmsproj\images\modify page.wss"><css/><page id="p49024423" name="index" pageindex="0"><body textcolor="" backgroundcolor="" hyperlinkcolor="" visitlinkcolor="" activelinkcolor="" title="" author="" keywords="" description="" bgimage="" bgpreview="" bgimagedata="" bgsound="" bgspreview="" bgfixed="" bgsoundloop="-1" charset="0" charsetcode="ISO-8859-1" align="1" headcode="" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0"><Component type="3" id="image1" zorder="0" filename="image589803484" left="0" top="0" width="1345" height="642" originwidth="1240" originheight="930" src="C:\Java\Tomcat 7.0\webapps\dbmsproj\images\template_main_01.jpg" previewfile="C:\Java\Tomcat 7.0\webapps\dbmsproj\images\template_main_01.jpg" thumbname="thumb590850546" resamplename="img590850578" exportfilename="images/template_main_01.jpg"/><Component type="5" id="nav2" zorder="1" filename="nav590592203" fontname="Tahoma" fontsize="10" fontcolor="0" fontstyle="0" activecolor="536870911" navspace="20" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="180" navheight="28" normalimage="C:\Java\Tomcat 7.0\webapps\dbmsproj\images\Admin\profile01.gif" mouseoverimage="C:\Java\Tomcat 7.0\webapps\dbmsproj\images\Admin\profile01over.gif" mouseoversound="" navtext0="Insert New Record" navurl0="/modify1.jsp" navtarget0="" navstate0="0" navtext1="Update A Record" navurl1="/modify2.jsp" navtarget1="" navstate1="0" navtext2="Delete A Record" navurl2="/modify3.jsp" navtarget2="" navstate2="0" navcount="3" width="180" height="144" preview="C:\Users\Vishal\AppData\Local\Temp\Web Page Maker\docO72VU\NavMEAMG" left="259" top="239" exportfilename="images/nav590592203"/></body></page>
+	<page id="p23949147" name="services" pageindex="1"><body textcolor="" backgroundcolor="" hyperlinkcolor="" visitlinkcolor="" activelinkcolor="" title="" author="" keywords="" description="" bgimage="" bgpreview="" bgimagedata="" bgsound="" bgspreview="" bgfixed="" bgsoundloop="-1" charset="0" charsetcode="ISO-8859-1" align="1" headcode="" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0"><Component id="image1" zorder="0" type="3" filename="image49115203" left="21" top="760" width="752" height="64" src="C:\Program Files\Web Page Maker\Templates\Business\Business004\images\bot21.jpg" previewfile="C:\Program Files\Web Page Maker\Templates\Business\Business004\images\bot21.jpg" originwidth="741" originheight="64" group="0" groupname="" thumbname="thumb252671250" resamplename="img252671281" exportfilename="images/bot21.jpg"/><Component id="text2" zorder="1" type="2" filename="text49115223" left="609" top="425" width="163" height="329" text="" bgcolor="#F7F7F7" html="" exporthtml="" rvf="" group="0" groupname="" newhtml="1" htmlcode="" newexhtml="1" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoDAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZTeXN0ZW0HVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVTdHlsZQsLZnNVbmRlcmxpbmUABUNvbG9yBwZj
+bEdyYXkAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24H
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50
+ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50Bwhy
+dmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlv
+bnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5z
+AARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQoNCg==
+</rvf></Component><Component id="image2" zorder="2" type="3" filename="image49115264" left="19" top="400" width="578" height="19" src="C:\Program Files\Web Page Maker\Templates\Business\Business004\images\box2.jpg" previewfile="C:\Program Files\Web Page Maker\Templates\Business\Business004\images\box2.jpg" originwidth="223" originheight="19" group="0" groupname="" thumbname="thumb252671296" resamplename="img252671328" exportfilename="images/box2.jpg"/><Component id="image13" zorder="3" type="3" filename="image49115384" left="593" top="134" width="20" height="620" src="C:\Program Files\Web Page Maker\Templates\Business\Business004\images\ver_line.gif" previewfile="C:\Program Files\Web Page Maker\Templates\Business\Business004\images\ver_line.gif" originwidth="20" originheight="33" group="0" groupname="" thumbname="thumb252671343" resamplename="img252671375" exportfilename="images/ver_line.gif"/><Component id="image14" zorder="4" type="3" filename="image49115394" left="238" top="137" width="20" height="256" src="C:\Program Files\Web Page Maker\Templates\Business\Business004\images\ver_line.gif" previewfile="C:\Program Files\Web Page Maker\Templates\Business\Business004\images\ver_line.gif" originwidth="20" originheight="33" group="0" groupname="" thumbname="thumb252671390" resamplename="img252671421" exportfilename="images/ver_line.gif"/><Component id="text5" zorder="5" type="2" filename="text49115424" left="611" top="174" width="153" height="205" text="" bgcolor="" group="0" groupname="" html="" exporthtml="" rvf="" newhtml="1" htmlcode="" newexhtml="1" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#969696" face="Tahoma"&gt;&lt;B&gt;PHARMACEUTICAL&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#969696" face="Tahoma"&gt;&lt;B&gt;BIOTECHNOLOGY&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#969696" face="Tahoma"&gt;&lt;B&gt;VETERINARY&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#969696" face="Tahoma"&gt;&lt;B&gt;AGRO CHEM&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#969696" face="Tahoma"&gt;&lt;B&gt;FOOD COLORS&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#969696" face="Tahoma"&gt;&lt;B&gt;COSMETIC&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#969696" face="Tahoma"&gt;&lt;B&gt;VETERINARY&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#969696" face="Tahoma"&gt;&lt;B&gt;AGRO CHEM&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font style="font-size:11px" color="#969696" face="Tahoma"&gt;&lt;B&gt;BIOTECHNOLOGY&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font class="ws8" color="#969696" face="Tahoma"&gt;&lt;B&gt;PHARMACEUTICAL&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws8" color="#969696" face="Tahoma"&gt;&lt;B&gt;BIOTECHNOLOGY&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws8" color="#969696" face="Tahoma"&gt;&lt;B&gt;VETERINARY&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws8" color="#969696" face="Tahoma"&gt;&lt;B&gt;AGRO CHEM&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws8" color="#969696" face="Tahoma"&gt;&lt;B&gt;FOOD COLORS&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws8" color="#969696" face="Tahoma"&gt;&lt;B&gt;COSMETIC&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws8" color="#969696" face="Tahoma"&gt;&lt;B&gt;VETERINARY&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws8" color="#969696" face="Tahoma"&gt;&lt;B&gt;AGRO CHEM&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font class="ws8" color="#969696" face="Tahoma"&gt;&lt;B&gt;BIOTECHNOLOGY&lt;/B&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr7AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZTeXN0ZW0HVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVTdHlsZQsGZnNCb2xkAAVDb2xvcgSWlpYAAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBh
+b1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQp1AAAADgEJU3R5bGVOYW1lBgpMaXN0IFN0eWxlCFN0YW5k
+YXJkCAZMZXZlbHMOAQpMZWZ0SW5kZW50AhgLRmlyc3RJbmRlbnQCAAtGb250LkhlaWdodALwCUZv
+bnQuTmFtZQYGU3ltYm9sAAAFTHN0SUQEzw3oAwAALTExIDAgMCAwIDAgMCAwIDAgMCAwDQozIDEg
+LTEgMSAwIDANClBIQVJNQUNFVVRJQ0FMDQotMTEgMCAwIDAgMCAwIDAgMCAwIDANCjMgMSAtMSAx
+IDAgMA0KQklPVEVDSE5PTE9HWQ0KLTExIDAgMCAwIDAgMCAwIDAgMCAwDQozIDEgLTEgMSAwIDAN
+ClZFVEVSSU5BUlkNCi0xMSAwIDAgMCAwIDAgMCAwIDAgMA0KMyAxIC0xIDEgMCAwDQpBR1JPIENI
+RU0NCi0xMSAwIDAgMCAwIDAgMCAwIDAgMA0KMyAxIC0xIDEgMCAwDQpGT09EIENPTE9SUw0KLTEx
+IDAgMCAwIDAgMCAwIDAgMCAwDQozIDEgLTEgMSAwIDANCkNPU01FVElDDQotMTEgMCAwIDAgMCAw
+IDAgMCAwIDANCjMgMSAtMSAxIDAgMA0KVkVURVJJTkFSWQ0KLTExIDAgMCAwIDAgMCAwIDAgMCAw
+DQozIDEgLTEgMSAwIDANCkFHUk8gQ0hFTQ0KLTExIDAgMCAwIDAgMCAwIDAgMCAwDQozIDEgLTEg
+MSAwIDANCkJJT1RFQ0hOT0xPR1kNCg==
+</rvf></Component><Component id="image3" zorder="6" type="3" filename="image24468684" left="610" top="400" width="162" height="19" src="C:\Program Files\Web Page Maker\Templates\Business\Business004\images\box4.jpg" previewfile="C:\Program Files\Web Page Maker\Templates\Business\Business004\images\box4.jpg" originwidth="162" originheight="19" group="0" groupname="" thumbname="thumb252671437" resamplename="img252671468" exportfilename="images/box4.jpg"/><Component id="text3" zorder="7" type="2" filename="text24517003" left="263" top="144" width="310" height="174" text="" group="0" groupname="" html="" exporthtml="" rvf="" bgcolor="" bordercolor="#808080" borderstyle="0" borderwidth="3" newhtml="1" htmlcode="" newexhtml="1" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:21px" color="#FF9900" face="Arial Narrow"&gt;Business Development&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;..............................................................................................................&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;Web Page Maker is an easy-to-use web editor that allows you to create and upload web pages in minutes without knowing HTML. Simply drag and drop objects onto the page and position them freely in the layout.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;Web Page Maker is an easy-to-use web editor that allows you to create and upload web pages in minutes without knowing HTML. Simply drag and drop objects onto the page and position them freely in the layout.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws16" color="#FF9900" face="Arial Narrow"&gt;Business Development&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;..............................................................................................................&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;Web Page Maker is an easy-to-use web editor that allows you to create and upload web pages in minutes without knowing HTML. Simply drag and drop objects onto the page and position them freely in the layout.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;Web Page Maker is an easy-to-use web editor that allows you to create and upload web pages in minutes without knowing HTML. Simply drag and drop objects onto the page and position them freely in the layout.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQo7AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZTeXN0ZW0HVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVDb2xvcgcGY2xHcmF5AAEJU3R5bGVOYW1lBgtO
+b3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEFyaWFsIE5hcnJvdwRTaXplAhAFQ29sb3IE
+/5kAAAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KUAEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAABCVN0eWxlTmFtZQYKTGVmdCBBbGlnbghTdGFuZGFyZAgJQWxpZ25tZW50BwpydmFK
+dXN0aWZ5B09wdGlvbnMLAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADQgMSAw
+IDAgMCAwDQpCdXNpbmVzcyBEZXZlbG9wbWVudA0KMyAxIDAgMCAwIDANCi4uLi4uLi4uLi4uLi4u
+Li4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4u
+Li4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uDQozIDMgNCAwIDAgMA0KV2Vi
+IFBhZ2UgTWFrZXIgaXMgYW4gZWFzeS10by11c2Ugd2ViIGVkaXRvciB0aGF0IGFsbG93cyB5b3Ug
+dG8gY3JlYXRlIGFuZCB1cGxvYWQgd2ViIHBhZ2VzIGluIG1pbnV0ZXMgd2l0aG91dCBrbm93aW5n
+IEhUTUwuIFNpbXBseSBkcmFnIGFuZCBkcm9wIG9iamVjdHMgb250byB0aGUgcGFnZSBhbmQgcG9z
+aXRpb24gdGhlbSBmcmVlbHkgaW4gdGhlIGxheW91dC4NCg0KV2ViIFBhZ2UgTWFrZXIgaXMgYW4g
+ZWFzeS10by11c2Ugd2ViIGVkaXRvciB0aGF0IGFsbG93cyB5b3UgdG8gY3JlYXRlIGFuZCB1cGxv
+YWQgd2ViIHBhZ2VzIGluIG1pbnV0ZXMgd2l0aG91dCBrbm93aW5nIEhUTUwuIFNpbXBseSBkcmFn
+IGFuZCBkcm9wIG9iamVjdHMgb250byB0aGUgcGFnZSBhbmQgcG9zaXRpb24gdGhlbSBmcmVlbHkg
+aW4gdGhlIGxheW91dC4NCjMgMSAwIDAgMCAwDQoNCg==
+</rvf></Component><Component id="text1" zorder="8" type="2" left="263" top="437" width="319" height="252" text="" filename="text24783286" group="0" groupname="" html="" exporthtml="" rvf="" newhtml="1" htmlcode="" newexhtml="1" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma"&gt;&lt;B&gt;&lt;U&gt;Your order&lt;/U&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;For questions about an order you placed, please contact the merchant directly. Individual stores (the "merchants") in MSN Shopping are responsible for their own fulfillment.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:11px" color="#FF9900" face="Tahoma"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:11px" color="#FF9900" face="Tahoma"&gt;&lt;U&gt;For questions about an order you placed, please contact the merchant directly.&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:11px" color="#FFFFFF" face="Tahoma"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;For questions about an order you placed, please contact the merchant directly. Individual stores (the "merchants") in MSN Shopping are responsible for their own fulfillment, shipping, security and other policies.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma"&gt;&lt;B&gt;&lt;U&gt;Your order&lt;/U&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;For questions about an order you placed, please contact the merchant directly. Individual stores (the "merchants") in MSN Shopping are responsible for their own fulfillment.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws8" color="#FF9900" face="Tahoma"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws8" color="#FF9900" face="Tahoma"&gt;&lt;U&gt;For questions about an order you placed, please contact the merchant directly.&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws8" color="#FFFFFF" face="Tahoma"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;For questions about an order you placed, please contact the merchant directly. Individual stores (the "merchants") in MSN Shopping are responsible for their own fulfillment, shipping, security and other policies.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpKAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZTeXN0ZW0HVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVDb2xvcgcGY2xHcmF5AAEJU3R5bGVOYW1lBgtO
+b3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQVTdHlsZQsGZnNCb2xkC2ZzVW5k
+ZXJsaW5lAAVDb2xvcgcGY2xHcmF5AAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgI
+Rm9udE5hbWUGBlRhaG9tYQRTaXplAggFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcHY2xXaGl0
+ZQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6
+ZQIIBVN0eWxlCwtmc1VuZGVybGluZQAFQ29sb3IE/5kAAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBUNvbG9yBP+ZAAAAAC05IDIgMCAw
+IDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRh
+YnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25z
+CwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9u
+bHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIg
+MCAwIDIgMCA0DQpydnMNCgIAAAAOADQgMSAwIDAgMCAwDQpZb3VyIG9yZGVyDQozIDEgMCAwIDAg
+MA0KRm9yIHF1ZXN0aW9ucyBhYm91dCBhbiBvcmRlciB5b3UgcGxhY2VkLCBwbGVhc2UgY29udGFj
+dCB0aGUgbWVyY2hhbnQgZGlyZWN0bHkuIEluZGl2aWR1YWwgc3RvcmVzICh0aGUgIm1lcmNoYW50
+cyIpIGluIE1TTiBTaG9wcGluZyBhcmUgcmVzcG9uc2libGUgZm9yIHRoZWlyIG93biBmdWxmaWxs
+bWVudC4NCjcgMSAwIDAgMCAwDQoNCjYgMSAwIDAgMCAwDQpGb3IgcXVlc3Rpb25zIGFib3V0IGFu
+IG9yZGVyIHlvdSBwbGFjZWQsIHBsZWFzZSBjb250YWN0IHRoZSBtZXJjaGFudCBkaXJlY3RseS4N
+CjUgMSAwIDAgMCAwDQoNCjMgMiAwIDAgMCAwDQpGb3IgcXVlc3Rpb25zIGFib3V0IGFuIG9yZGVy
+IHlvdSBwbGFjZWQsIHBsZWFzZSBjb250YWN0IHRoZSBtZXJjaGFudCBkaXJlY3RseS4gSW5kaXZp
+ZHVhbCBzdG9yZXMgKHRoZSAibWVyY2hhbnRzIikgaW4gTVNOIFNob3BwaW5nIGFyZSByZXNwb25z
+aWJsZSBmb3IgdGhlaXIgb3duIGZ1bGZpbGxtZW50LCBzaGlwcGluZywgc2VjdXJpdHkgYW5kIG90
+aGVyIHBvbGljaWVzLg0KDQo=
+</rvf></Component><Component id="text6" zorder="9" type="2" left="26" top="437" width="211" height="252" text="" filename="text24954392" group="0" groupname="" html="" exporthtml="" rvf="" newhtml="1" htmlcode="" newexhtml="1" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma"&gt;&lt;B&gt;&lt;U&gt;Your order&lt;/U&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;Web Page Maker is an easy-to-use web editor that allows you to create and upload web pages without knowing HTML.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;Simply drag and drop objects onto the page and position them freely in the layout. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;Web Page Maker is an easy-to-use web editor that allows you to create and upload web pages without knowing HTML.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;Simply drag and drop objects onto the page and position them freely in the layout.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma"&gt;&lt;B&gt;&lt;U&gt;Your order&lt;/U&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;Web Page Maker is an easy-to-use web editor that allows you to create and upload web pages without knowing HTML.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;Simply drag and drop objects onto the page and position them freely in the layout. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;Web Page Maker is an easy-to-use web editor that allows you to create and upload web pages without knowing HTML.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;Simply drag and drop objects onto the page and position them freely in the layout.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpMAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZTeXN0ZW0HVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVDb2xvcgcGY2xHcmF5AAEJU3R5bGVOYW1lBgtO
+b3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQVTdHlsZQsGZnNCb2xkC2ZzVW5k
+ZXJsaW5lAAVDb2xvcgcGY2xHcmF5AAAtOSAyIDAgMCAyIDAgMg0KcnZzDQpQAQAADgEJU3R5bGVO
+YW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFs
+aWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFs
+aWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYNUHJv
+dGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFv
+RG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduCFN0YW5kYXJk
+CAlBbGlnbm1lbnQHCnJ2YUp1c3RpZnkHT3B0aW9ucwsABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQN
+CnJ2cw0KAgAAAA4ANCAxIDAgMCAwIDANCllvdXIgb3JkZXINCjMgMSA0IDAgMCAwDQpXZWIgUGFn
+ZSBNYWtlciBpcyBhbiBlYXN5LXRvLXVzZSB3ZWIgZWRpdG9yIHRoYXQgYWxsb3dzIHlvdSB0byBj
+cmVhdGUgYW5kIHVwbG9hZCB3ZWIgcGFnZXMgd2l0aG91dCBrbm93aW5nIEhUTUwuDQozIDMgMCAw
+IDAgMA0KDQpTaW1wbHkgZHJhZyBhbmQgZHJvcCBvYmplY3RzIG9udG8gdGhlIHBhZ2UgYW5kIHBv
+c2l0aW9uIHRoZW0gZnJlZWx5IGluIHRoZSBsYXlvdXQuIA0KDQozIDEgNCAwIDAgMA0KV2ViIFBh
+Z2UgTWFrZXIgaXMgYW4gZWFzeS10by11c2Ugd2ViIGVkaXRvciB0aGF0IGFsbG93cyB5b3UgdG8g
+Y3JlYXRlIGFuZCB1cGxvYWQgd2ViIHBhZ2VzIHdpdGhvdXQga25vd2luZyBIVE1MLg0KMyAyIDAg
+MCAwIDANCg0KU2ltcGx5IGRyYWcgYW5kIGRyb3Agb2JqZWN0cyBvbnRvIHRoZSBwYWdlIGFuZCBw
+b3NpdGlvbiB0aGVtIGZyZWVseSBpbiB0aGUgbGF5b3V0Lg0K
+</rvf></Component><Component id="image4" zorder="10" type="3" filename="image25455983" left="238" top="433" width="20" height="315" src="C:\Program Files\Web Page Maker\Templates\Business\Business004\images\ver_line.gif" previewfile="C:\Program Files\Web Page Maker\Templates\Business\Business004\images\ver_line.gif" originwidth="20" originheight="33" group="0" groupname="" thumbname="thumb252671484" resamplename="img252671515" exportfilename="images/ver_line.gif"/></body></page>
+	<page id="p25066473" name="products" pageindex="2"><body textcolor="" backgroundcolor="" hyperlinkcolor="" visitlinkcolor="" activelinkcolor="" title="" author="" keywords="" description="" bgimage="" bgpreview="" bgimagedata="" bgsound="" bgspreview="" bgfixed="" bgsoundloop="-1" charset="0" charsetcode="ISO-8859-1" align="1" headcode="" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0"><Component id="image1" zorder="0" type="3" filename="image49115203" left="21" top="760" width="752" height="64" src="C:\Program Files\Web Page Maker\Templates\Business\Business004\images\bot21.jpg" previewfile="C:\Program Files\Web Page Maker\Templates\Business\Business004\images\bot21.jpg" originwidth="741" originheight="64" group="0" groupname="" thumbname="thumb252671546" resamplename="img252671578" exportfilename="images/bot21.jpg"/><Component id="text2" zorder="1" type="2" filename="text49115223" left="19" top="423" width="227" height="329" text="" bgcolor="#F7F7F7" html="" exporthtml="" rvf="" group="0" groupname="" newhtml="1" htmlcode="" newexhtml="1" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoDAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZTeXN0ZW0HVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVTdHlsZQsLZnNVbmRlcmxpbmUABUNvbG9yBwZj
+bEdyYXkAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24H
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50
+ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50Bwhy
+dmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlv
+bnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5z
+AARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQoNCg==
+</rvf></Component><Component id="image2" zorder="2" type="3" filename="image49115264" left="19" top="400" width="227" height="19" src="C:\Program Files\Web Page Maker\Templates\Business\Business004\images\box2.jpg" previewfile="C:\Program Files\Web Page Maker\Templates\Business\Business004\images\box2.jpg" originwidth="223" originheight="19" group="0" groupname="" thumbname="thumb252671593" resamplename="img252671625" exportfilename="images/box2.jpg"/><Component id="image14" zorder="3" type="3" filename="image49115394" left="238" top="137" width="20" height="616" src="C:\Program Files\Web Page Maker\Templates\Business\Business004\images\ver_line.gif" previewfile="C:\Program Files\Web Page Maker\Templates\Business\Business004\images\ver_line.gif" originwidth="20" originheight="33" group="0" groupname="" thumbname="thumb252671640" resamplename="img252671671" exportfilename="images/ver_line.gif"/><Component id="text3" zorder="4" type="2" filename="text24517003" left="263" top="144" width="475" height="174" text="" group="0" groupname="" html="" exporthtml="" rvf="" bgcolor="" bordercolor="#808080" borderstyle="0" borderwidth="3" newhtml="1" htmlcode="" newexhtml="1" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" backup="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font style="font-size:21px" color="#FF9900" face="Arial Narrow"&gt;Products Overview&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;......................................................................................................................&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;Web Page Maker is an extremely easy to use utility that allows you to create your own site without even knowing HTML. You can create your site using Web Page Maker's professional templates or start from scratch by dragging and dropping images, music and video.. into a layout.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font style="font-size:11px" color="#808080" face="Tahoma"&gt;During the edit process, you can easily move the elements with your mouse to anywhere on the page. Other features include thumbnail, mouse-over effects, ready-to-use Java Script effects, text link style sheet, tables, forms, iframes etc. The program also includes built-in FTP publisher to allow you upload your site to the Internet by pressing a publish button.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font class="ws16" color="#FF9900" face="Arial Narrow"&gt;Products Overview&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;......................................................................................................................&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;Web Page Maker is an extremely easy to use utility that allows you to create your own site without even knowing HTML. You can create your site using Web Page Maker's professional templates or start from scratch by dragging and dropping images, music and video.. into a layout.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font class="ws8" color="#808080" face="Tahoma"&gt;During the edit process, you can easily move the elements with your mouse to anywhere on the page. Other features include thumbnail, mouse-over effects, ready-to-use Java Script effects, text link style sheet, tables, forms, iframes etc. The program also includes built-in FTP publisher to allow you upload your site to the Internet by pressing a publish button.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQo7AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBgZTeXN0ZW0HVW5pY29kZQkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVDb2xvcgcGY2xHcmF5AAEJU3R5bGVOYW1lBgtO
+b3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDEFyaWFsIE5hcnJvdwRTaXplAhAFQ29sb3IE
+/5kAAAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KUAEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2
+YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9u
+cwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMA
+BFRhYnMOAAABCVN0eWxlTmFtZQYKTGVmdCBBbGlnbghTdGFuZGFyZAgJQWxpZ25tZW50BwpydmFK
+dXN0aWZ5B09wdGlvbnMLAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADQgMSAw
+IDAgMCAwDQpQcm9kdWN0cyBPdmVydmlldw0KMyAxIDAgMCAwIDANCi4uLi4uLi4uLi4uLi4uLi4u
+Li4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4u
+Li4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4NCjMgMSA0IDAgMCAw
+DQpXZWIgUGFnZSBNYWtlciBpcyBhbiBleHRyZW1lbHkgZWFzeSB0byB1c2UgdXRpbGl0eSB0aGF0
+IGFsbG93cyB5b3UgdG8gY3JlYXRlIHlvdXIgb3duIHNpdGUgd2l0aG91dCBldmVuIGtub3dpbmcg
+SFRNTC4gWW91IGNhbiBjcmVhdGUgeW91ciBzaXRlIHVzaW5nIFdlYiBQYWdlIE1ha2VyJ3MgcHJv
+ZmVzc2lvbmFsIHRlbXBsYXRlcyBvciBzdGFydCBmcm9tIHNjcmF0Y2ggYnkgZHJhZ2dpbmcgYW5k
+IGRyb3BwaW5nIGltYWdlcywgbXVzaWMgYW5kIHZpZGVvLi4gaW50byBhIGxheW91dC4NCjMgMSAw
+IDAgMCAwDQoNCjMgMSA0IDAgMCAwDQpEdXJpbmcgdGhlIGVkaXQgcHJvY2VzcywgeW91IGNhbiBl
+YXNpbHkgbW92ZSB0aGUgZWxlbWVudHMgd2l0aCB5b3VyIG1vdXNlIHRvIGFueXdoZXJlIG9uIHRo
+ZSBwYWdlLiBPdGhlciBmZWF0dXJlcyBpbmNsdWRlIHRodW1ibmFpbCwgbW91c2Utb3ZlciBlZmZl
+Y3RzLCByZWFkeS10by11c2UgSmF2YSBTY3JpcHQgZWZmZWN0cywgdGV4dCBsaW5rIHN0eWxlIHNo
+ZWV0LCB0YWJsZXMsIGZvcm1zLCBpZnJhbWVzIGV0Yy4gVGhlIHByb2dyYW0gYWxzbyBpbmNsdWRl
+cyBidWlsdC1pbiBGVFAgcHVibGlzaGVyIHRvIGFsbG93IHlvdSB1cGxvYWQgeW91ciBzaXRlIHRv
+IHRoZSBJbnRlcm5ldCBieSBwcmVzc2luZyBhIHB1Ymxpc2ggYnV0dG9uLg0K
+</rvf></Component></body></page>
+	<components/></site>

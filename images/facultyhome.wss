@@ -1,0 +1,53 @@
+<site sitename="facultyhome" templatepreview="" version="3.0" FullPath="C:\Java\Tomcat 7.0\webapps\dbmsproj\images\facultyhome.wss"><css/><page id="p49024423" name="index" pageindex="0"><body textcolor="" backgroundcolor="" hyperlinkcolor="" visitlinkcolor="" activelinkcolor="" title="" author="" keywords="" description="" bgimage="" bgpreview="" bgimagedata="" bgsound="" bgspreview="" bgfixed="" bgsoundloop="-1" charset="0" charsetcode="ISO-8859-1" align="1" headcode="" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0"><Component type="3" id="image1" zorder="0" filename="image632076156" left="0" top="0" width="1346" height="641" originwidth="1240" originheight="930" src="C:\Java\Tomcat 7.0\webapps\dbmsproj\images\template_main_01.jpg" previewfile="C:\Java\Tomcat 7.0\webapps\dbmsproj\images\template_main_01.jpg" thumbname="thumb634677343" resamplename="img634677375" exportfilename="images/template_main_01.jpg"/><Component type="21" id="slideshow1" zorder="1" filename="slideshow632208515" files="&quot;C:\Java\Tomcat 7.0\webapps\dbmsproj\images\download (1).jpg&quot;,&quot;C:\Java\Tomcat 7.0\webapps\dbmsproj\images\download.jpg&quot;,&quot;C:\Java\Tomcat 7.0\webapps\dbmsproj\images\images.jpg&quot;,&quot;C:\Java\Tomcat 7.0\webapps\dbmsproj\images\infra.jpg&quot;" links=",,," titles=",,," showbutton="1" duration="5" titleposition="0" titlecolor="" titlebgcolor="" previewfile="C:\Java\Tomcat 7.0\webapps\dbmsproj\images\download (1).jpg" width="486" height="271" left="309" top="257" subfolder="images" configfilename="indexslideshow1" exportfilename="images/slideshow632208515.xml"/><Component type="2" id="text1" zorder="2" filename="text632258765" left="911" top="225" width="398" height="41" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Berlin Sans FB" style="font-size:32px;"&gt;Welcome : &lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Berlin Sans FB" class="ws24"&gt;Welcome : &lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrrAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg5CZXJsaW4gU2FucyBGQgRTaXplAhgAAC05IDIgMCAwIDIgMCAyDQpy
+dnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0
+eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9T
+dHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0
+DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpXZWxjb21lIDogDQo=
+</rvf></Component><Component type="2" id="text2" zorder="3" filename="text632269343" left="915" top="270" width="398" height="23" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Login Time :&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Login Time :&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrrAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg5CZXJsaW4gU2FucyBGQgRTaXplAg4AAC05IDIgMCAwIDIgMCAyDQpy
+dnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0
+eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9T
+dHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0
+DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpMb2dpbiBUaW1lIDoNCg==
+</rvf></Component><Component type="2" id="text3" zorder="4" filename="text632285406" left="915" top="302" width="398" height="23" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;Time : &lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;Time : &lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrrAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBg5CZXJsaW4gU2FucyBGQgRTaXplAg4AAC05IDIgMCAwIDIgMCAyDQpy
+dnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAABCVN0
+eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2cGFvUmVhZE9ubHkRcnZwYW9T
+dHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0
+DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQpUaW1lIDogDQo=
+</rvf></Component><Component type="3" id="image2" zorder="5" filename="image634612968" left="313" top="10" width="734" height="106" originwidth="734" originheight="106" src="C:\Java\Tomcat 7.0\webapps\dbmsproj\images\Banner1.png" previewfile="C:\Java\Tomcat 7.0\webapps\dbmsproj\images\Banner1.png" thumbname="thumb252671187" resamplename="img252671218" exportfilename="images/Banner1.png"/><Component type="9" id="hr1" zorder="6" filename="hr634620671" hrsize="2" width="1344" height="17" left="10" top="116"/><Component type="5" id="nav1" zorder="7" filename="nav634629125" fontname="Tahoma" fontsize="10" fontcolor="3355443" fontstyle="1" activecolor="536870911" navspace="12" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="180" navheight="28" normalimage="C:\Java\Tomcat 7.0\webapps\dbmsproj\images\Faculty\rectb04in.gif" mouseoverimage="C:\Java\Tomcat 7.0\webapps\dbmsproj\images\Faculty\rectb04over.gif" mouseoversound="" navtext0="Home" navurl0="facultyhome.jsp" navtarget0="" navstate0="0" navtext1="Get Details" navurl1="getdetails.jsp" navtarget1="" navstate1="0" navtext2="Session Details" navurl2="sessiondetails.jsp" navtarget2="" navstate2="0" navtext3="Overall Details" navurl3="overalldetails.jsp" navtarget3="" navstate3="0" navtext4="Update Profile" navurl4="updatefacultyprofile.jsp" navtarget4="" navstate4="0" navtext5="Change Password" navtarget5="" navstate5="0" navurl6="logout.jsp" navtarget6="" navcount="7" width="1329" height="28" preview="C:\Users\Vishal\AppData\Local\Temp\Web Page Maker\docO72VU\Nav798OQ" left="14" top="150" exportfilename="images/nav634629125" navtext6="Logout" navstate6="0" navurl5="changefacultypwd.jsp" selected="1"/></body></page>
+	<components/></site>

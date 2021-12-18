@@ -1,0 +1,170 @@
+<site sitename="adminlogin" version="3.0" FullPath="C:\Java\Tomcat 7.0\webapps\dbmsproj\images\adminlogin.wss"><css/><components/><page id="p103632687" pageindex="0" name="index"><body><Component type="2" id="text1" zorder="0" filename="text103732968" left="571" top="162" width="466" height="40" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Algerian" style="font-size:32px;"&gt;new faculty registeration&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Algerian" class="ws24"&gt;new faculty registeration&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr/AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBghBbGdlcmlhbgRTaXplAhgAAC05IDIgMCAwIDIgMCAyDQpydnMNCmwAAAAO
+AQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAAtOSAyIDAg
+MCAyIDAgNA0KcnZzDQoCAAAADgA3IDEgMSAwIDAgMA0KbmV3IGZhY3VsdHkgcmVnaXN0ZXJhdGlv
+bg0K
+</rvf></Component><Component type="14" id="form1" zorder="2" filename="form103782703" formtype="1" formname="form1" width="618" height="301" left="514" top="337"/><Component type="3" id="image1" zorder="1" filename="image104025843" left="0" top="0" width="1347" height="640" originwidth="976" originheight="731" src="C:\Java\Tomcat 7.0\webapps\dbmsproj\images\index~~element2.jpg" previewfile="C:\Java\Tomcat 7.0\webapps\dbmsproj\images\index~~element2.jpg" thumbname="thumb105557093" resamplename="img105557125" exportfilename="images/index~~element2.jpg" selected="1"/><Component type="2" id="text2" zorder="3" filename="text104108109" left="572" top="269" width="490" height="37" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Algerian" style="font-size:32px;"&gt;Login Page&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Algerian" class="ws24"&gt;Login Page&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr/AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBghBbGdlcmlhbgRTaXplAhgAAC05IDIgMCAwIDIgMCAyDQpydnMNCmwAAAAO
+AQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAAtOSAyIDAg
+MCAyIDAgNA0KcnZzDQoCAAAADgA3IDEgMSAwIDAgMA0KTG9naW4gUGFnZQ0K
+</rvf></Component><Component type="2" id="text11" zorder="5" filename="text104526093" left="634" top="446" width="160" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:24px;"&gt;Password&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws18"&gt;Password&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoFAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBg5CZXJsaW4gU2FucyBGQgRTaXplAhIAAC05IDIgMCAwIDIgMCAyDQpydnMN
+CmwAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJU3R5
+bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAAt
+OSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgA3IDEgMSAwIDAgMA0KUGFzc3dvcmQNCg==
+</rvf></Component><Component type="14" id="formtext7" zorder="7" filename="form104825593" formtype="3" formname="password" parentform="form1" parentformname="form1" width="167" height="25" left="831" top="445" formvalue="" maxlength="20" inputtype="1"/><Component type="14" id="formbutton1" zorder="8" filename="form105446234" formtype="2" formname="submit" parentform="form1" parentformname="form1" buttontype="1" width="109" height="25" left="837" top="500" formvalue="      Login   "/><Component type="14" id="formtext1" zorder="6" filename="form104699640" formtype="3" formname="userid" parentform="form1" parentformname="form1" width="165" height="25" left="829" top="352" formvalue="" maxlength="20" inputtype="0"/><Component type="2" id="text3" zorder="4" filename="text104160484" left="632" top="400" width="160" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:24px;"&gt;Type&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws18"&gt;Type&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoFAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBg5CZXJsaW4gU2FucyBGQgRTaXplAhIAAC05IDIgMCAwIDIgMCAyDQpydnMN
+CmwAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJU3R5
+bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAAt
+OSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgA3IDEgMSAwIDAgMA0KVHlwZQ0K
+</rvf></Component><Component type="2" id="text4" zorder="9" filename="text105647593" left="805" top="547" width="195" height="23" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;a href="C:\Java\Tomcat 7.0\webapps\dbmsproj\passrecovery2.html" title=""&gt;Forgot Password&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;a href="C:\Java\Tomcat 7.0\webapps\dbmsproj\passrecovery2.html" title=""&gt;Forgot Password&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp+AgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBg5CZXJsaW4gU2FucyBGQgRTaXplAg4AAQlTdHlsZU5hbWUGC05vcm1hbCB0
+ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYOQmVybGluIFNhbnMgRkIEU2l6ZQIOBVN0eWxlCwtmc1Vu
+ZGVybGluZQAFQ29sb3IHBmNsQmx1ZQRKdW1wCQtOZXh0U3R5bGVObwIHAAAtOSAyIDAgMCAyIDAg
+Mg0KcnZzDQpsAAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRh
+YnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AOCAxIDEgMCAwICJ1cmw9QzpcSmF2YVxU
+b21jYXQmMjA3LjBcd2ViYXBwc1xkYm1zcHJvalxwYXNzcmVjb3ZlcnkyLmh0bWwiDQpGb3Jnb3Qg
+UGFzc3dvcmQNCg==
+</rvf></Component><Component type="2" id="text5" zorder="10" filename="text106027859" left="557" top="141" width="571" height="98" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Algerian" style="font-size:37px;"&gt;Central Evaluation&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Algerian" style="font-size:8px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Algerian" style="font-size:37px;"&gt;Exam Remuneration System&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Algerian" class="ws28"&gt;Central Evaluation&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Algerian" class="ws6"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Algerian" class="ws28"&gt;Exam Remuneration System&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQo8AgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBghBbGdlcmlhbgRTaXplAhwAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0
+YW5kYXJkCAhGb250TmFtZQYIQWxnZXJpYW4EU2l6ZQIGAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQps
+AAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAAALTkg
+MiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4ANyAxIDEgMCAwIDANCkNlbnRyYWwgRXZhbHVhdGlvbg0K
+OCAxIDEgMCAwIDANCg0KNyAxIDEgMCAwIDANCkV4YW0gUmVtdW5lcmF0aW9uIFN5c3RlbQ0K
+</rvf></Component><Component type="2" id="text6" zorder="11" filename="text121893281" left="633" top="354" width="160" height="26" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:24px;"&gt;UserID&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws18"&gt;UserID&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoFAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBg5CZXJsaW4gU2FucyBGQgRTaXplAhIAAC05IDIgMCAwIDIgMCAyDQpydnMN
+CmwAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJU3R5
+bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAAt
+OSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgA3IDEgMSAwIDAgMA0KVXNlcklEDQo=
+</rvf></Component><Component type="14" id="formselect1" zorder="12" filename="form121936218" formtype="9" formname="formselect1" parentform="form1" parentformname="form1" width="169" height="25" left="828" top="396" options="=
+Admin=a
+Faculty=f
+"/><Component type="2" id="text7" zorder="13" filename="text121996281" left="805" top="586" width="266" height="23" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" style="font-size:19px;"&gt;&lt;a href="newfaculty.html" title=""&gt;New Faculty Registeration&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Berlin Sans FB" class="ws14"&gt;&lt;a href="newfaculty.html" title=""&gt;New Faculty Registeration&lt;/a&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp+AgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBg5CZXJsaW4gU2FucyBGQgRTaXplAg4AAQlTdHlsZU5hbWUGC05vcm1hbCB0
+ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYOQmVybGluIFNhbnMgRkIEU2l6ZQIOBVN0eWxlCwtmc1Vu
+ZGVybGluZQAFQ29sb3IHBmNsQmx1ZQRKdW1wCQtOZXh0U3R5bGVObwIHAAAtOSAyIDAgMCAyIDAg
+Mg0KcnZzDQpsAAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRh
+YnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4AOCAxIDEgMCAwICJ1cmw9bmV3ZmFjdWx0
+eS5odG1sIg0KTmV3IEZhY3VsdHkgUmVnaXN0ZXJhdGlvbg0K
+</rvf></Component></body></page></site>
